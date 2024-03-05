@@ -1,2 +1,2 @@
-# Kasangcheong
+# KarinaWeather
 Weather App
